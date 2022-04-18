@@ -1,0 +1,4 @@
+php_value display_errors On
+php_value display_startup_errors On
+
+AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/x-javascript
